@@ -5,3 +5,4 @@
 * [02-TypeScript](02-typescript.md)
 * [03-React](03-react.md)
 * [04-Testing Library](04-testing-library.md)
+* [05-Parcel & ESLint](05-parcel-and-eslint.md)
