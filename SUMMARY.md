@@ -10,3 +10,7 @@
 ## Group 1
 
 * [01-JSX](group-1/01-jsx.md)
+
+## Group 2
+
+* [01-React Component](group-2/01-react-component.md)
